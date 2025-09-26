@@ -1,0 +1,45 @@
+[
+  {
+    "id": "betla-national-park",
+    "title": "Betla National Park",
+    "type": "destination",
+    "summary": "One of India's first tiger reserves, known for elephants, bison, and rich flora.",
+    "location": "Palamu, Jharkhand",
+    "best_time": "October to March",
+    "tips": ["Take early morning safari", "Carry binoculars", "Respect wildlife"],
+    "faqs": [
+      {"q": "How to reach Betla?", "a": "Nearest railhead is Daltonganj; Ranchi airport ~170 km."},
+      {"q": "Safari timings?", "a": "Typically morning and evening slots; check at park gate."}
+    ]
+  },
+  {
+    "id": "hundru-falls",
+    "title": "Hundru Falls",
+    "type": "destination",
+    "summary": "A dramatic waterfall on the Subarnarekha River with scenic rock formations.",
+    "location": "Ranchi district",
+    "best_time": "Monsoon & post-monsoon (Aug–Jan)",
+    "tips": ["Wear good grip shoes", "Avoid slippery rocks"],
+    "faqs": [
+      {"q": "Is it safe for kids?", "a": "Viewpoints are safe; avoid getting too close to edge."}
+    ]
+  },
+  {
+    "id": "cultural-festivals",
+    "title": "Cultural Festivals",
+    "type": "culture",
+    "summary": "Sarhul, Karma, Sohrai highlight tribal heritage with dance, music, and rituals.",
+    "best_time": "Varies by festival",
+    "tips": ["Ask permission before photos", "Support local artisans"],
+    "faqs": [
+      {"q": "When is Sarhul?", "a": "Spring festival; dates vary with the traditional calendar."}
+    ]
+  }
+]
+
+
+
+
+
+
+
